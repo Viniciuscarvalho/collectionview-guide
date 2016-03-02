@@ -2,7 +2,7 @@
 
 Projeto criado para o blog [equinociOS](http://www.equinocios.com), iniciativa da comunidade do [CocoaHeads Brasil](www.cocoaheads.com.br).
 
-<img src="http://i.giphy.com/l2JJBHyjrRKJPnC6s.gif" alt="">
+<img src="http://i.giphy.com/l2JJBHyjrRKJPnC6s.gif" alt="" ></img>
 
 A ideia do projeto inicialmente é apresentar como são feitas CollectionView customizáveis e depois avançar com novas funcionalidades.
 
